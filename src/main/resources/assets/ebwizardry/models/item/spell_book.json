@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "ebwizardry:items/spell_book"
+        "layer0": "ebwizardry:item/spell_book"
     },
     "overrides": [
         {

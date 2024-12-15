@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "ebwizardry:items/charm_abseiling"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ebwizardry:item/charm_abseiling"
+    }
 }

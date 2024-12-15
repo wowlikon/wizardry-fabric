@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "ebwizardry:items/wand_master_healing"
+        "layer0": "ebwizardry:item/wand_master_healing"
     },
     "overrides": [
         {

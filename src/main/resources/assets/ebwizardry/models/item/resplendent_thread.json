@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "ebwizardry:items/resplendent_thread"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ebwizardry:item/resplendent_thread"
+    }
 }

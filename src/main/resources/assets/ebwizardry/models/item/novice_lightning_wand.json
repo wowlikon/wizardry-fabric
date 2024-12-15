@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "ebwizardry:items/wand_novice_lightning"
+        "layer0": "ebwizardry:item/wand_novice_lightning"
     },
     "overrides": [
         {

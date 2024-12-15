@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "ebwizardry:items/spell_book_festive"
+        "layer0": "ebwizardry:item/spell_book_festive"
     }
 }

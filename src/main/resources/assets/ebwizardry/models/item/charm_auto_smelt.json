@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "ebwizardry:items/charm_auto_smelt"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ebwizardry:item/charm_auto_smelt"
+    }
 }

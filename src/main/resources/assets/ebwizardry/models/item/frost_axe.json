@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "ebwizardry:items/frost_axe"
+        "layer0": "ebwizardry:item/frost_axe"
     },
     "overrides": [
         {

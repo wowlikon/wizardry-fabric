@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "ebwizardry:items/amulet_fire_protection"
-  }
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ebwizardry:item/amulet_fire_protection"
+    }
 }

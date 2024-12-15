@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "ebwizardry:items/frost_axe_conjuring_4"
+        "layer0": "ebwizardry:item/frost_axe_conjuring_4"
     }
 }

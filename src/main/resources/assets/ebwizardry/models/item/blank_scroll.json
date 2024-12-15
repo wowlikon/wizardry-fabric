@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "ebwizardry:items/scroll"
+        "layer0": "ebwizardry:item/scroll"
     },
     "overrides": [
         {

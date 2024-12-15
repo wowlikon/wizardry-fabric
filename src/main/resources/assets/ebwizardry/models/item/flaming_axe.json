@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "ebwizardry:items/flaming_axe"
+        "layer0": "ebwizardry:item/flaming_axe"
     },
     "overrides": [
         {

@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "ebwizardry:items/spectral_sword"
+        "layer0": "ebwizardry:item/spectral_sword"
     },
     "overrides": [
         {
