@@ -1,5 +1,6 @@
 package electroblob.wizardry;
 
+import electroblob.wizardry.item.ModItemGroups;
 import electroblob.wizardry.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -14,5 +15,6 @@ public class Wizardry implements ModInitializer {
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric world!");
 		ModItems.registerModItems();
+		ModItemGroups.registerItemGroups();
 	}
 }
