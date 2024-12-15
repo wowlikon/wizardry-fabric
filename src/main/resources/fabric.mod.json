@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "ebwizardry",
+	"version": "${version}",
+	"name": "Wizardry",
+	"description": "Electroblob's Wizardry adds an rpg-style system of magic spells to Minecraft with the aim of being as playable as possible. No crazy constructs, no perk trees, no complex recipes - simply find spell books, cast spells, and master the arcane!",
+	"authors": [
+		"Electroblob",
+		"wowlikon",
+		"TryNotHard"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/ebwizardry/textures/gui/logo.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"electroblob.wizardry.Wizardry"
+		],
+		"client": [
+			"electroblob.wizardry.WizardryClient"
+		],
+		"fabric-datagen": [
+			"electroblob.wizardry.WizardryDataGenerator"
+		]
+	},
+	"mixins": [
+		"ebwizardry.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
